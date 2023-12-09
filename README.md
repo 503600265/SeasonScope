@@ -8,6 +8,7 @@ and Long Short-Term Memory (LSTM) networks.
 
 ## Data
 https://storage.googleapis.com/4995-dlcv-project-data/season_images.zip
+
 https://storage.googleapis.com/4995-dlcv-project-data/season_captions.txt
 
 ## Backup Data (LionMail Access Only)
